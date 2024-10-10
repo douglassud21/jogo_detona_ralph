@@ -5,7 +5,7 @@
 
     height: 100vh;
 
-    background-image: url("/wall.png");
+    background-image: url("css/wall.png");
 }
 
 .menu {
@@ -63,7 +63,7 @@
 }
 
 .enemy {
-    background-image: url("/ralph.png");
+    background-image: url("css/ralph.png");
     background-size: cover;
 }
 
